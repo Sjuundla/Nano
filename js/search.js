@@ -41,15 +41,15 @@ function search(query){
     	query.replaceChars("+", "%2B");
     	break;
 
-        case "-e":
+        case "-r":
         	query=query.substr(3);
         	window.location = 
-	"https://exhentai.org/?f_doujinshi=1&f_manga=1&f_artistcg=1&f_gamecg=1&f_western=0&f_non-h=0&f_imageset=0&f_cosplay=0&f_asianporn=0&f_misc=0&f_search=" + 
+	"https://www.reddit.com/search?q=" + 
 	query.concat("&f_apply=Apply+Filter");
 	break;
 
         default:
-            window.location="https://www.google.fr/search?q=" +
+            window.location="https://www.google.au/search?q=" +
                 query.replaceChars("", "+");
     }
 }
