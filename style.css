@@ -42,7 +42,7 @@ a {
 }
 
 #container #mascot {
-	background: no-repeat url("render/render_02.gif") center;
+	background: no-repeat url("render/render_02.png") center;
 	background-color: #444B54;
 	background-size: 75% auto;
 	border-radius: 50%;
