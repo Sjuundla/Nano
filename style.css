@@ -42,7 +42,7 @@ a {
 }
 
 #container #mascot {
-	background: no-repeat url("render/render_02.png") center;
+	/*background: no-repeat url("render/render_02.png") center;*/
 	background-color: #444B54;
 	background-size: 75% auto;
 	border-radius: 50%;
@@ -77,7 +77,7 @@ a {
 }
 
 #container #one.boxes {
-	background: no-repeat url("background/background_01.png") left !important;
+	/*background: no-repeat url("background/background_01.png") left !important;*/
 	background-size: cover !important;
 	left: 8vw;
 }
@@ -87,7 +87,7 @@ a {
 }
 
 #container #two.boxes {
-	background: no-repeat url("background/background_02.png") center !important;
+	/*background: no-repeat url("background/background_02.png") center !important;*/
 	background-size: cover !important;
 	left: 18vw;
 }
@@ -97,7 +97,7 @@ a {
 }
 
 #container #three.boxes {
-	background: no-repeat url("background/background_03.png") center !important;
+	/*background: no-repeat url("background/background_03.png") center !important;*/
 	background-size: cover !important;
 	left: 28vw;
 }
@@ -107,7 +107,7 @@ a {
 }
 
 #container #four.boxes {
-	background: no-repeat url("background/background_04.png") center 25% !important;
+	/*background: no-repeat url("background/background_04.png") center 25% !important;*/
 	background-size: cover !important;
 	right: 28vw;
 }
@@ -117,7 +117,7 @@ a {
 }
 
 #container #five.boxes {
-	background: no-repeat url("background/background_05.png") center 20% !important;
+	/*background: no-repeat url("background/background_05.png") center 20% !important;*/
 	background-size: cover !important;
 	right: 18vw;
 }
@@ -127,7 +127,7 @@ a {
 }
 
 #container #six.boxes {
-	background: no-repeat url("background/background_06.png") center !important;
+	/*background: no-repeat url("background/background_06.png") center !important;*/
 	background-size: cover !important;
 	right: 8vw;
 }
